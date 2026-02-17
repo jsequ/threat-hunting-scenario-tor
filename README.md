@@ -162,4 +162,6 @@ The user "employee" on the "threat-hunt-lab" device initiated and completed the 
 
 TOR usage was confirmed on the endpoint `threat-hunt-lab` by the user `employee`. The device was isolated, and the user's direct manager was notified.
 
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/3bbedad8-e6ab-4a0c-aa61-044ae173ab1b" />
+
 ---
